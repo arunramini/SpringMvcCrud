@@ -1,0 +1,6 @@
+com\test\model\User.class
+com\test\service\UserService.class
+com\test\service\UserServiceimpl.class
+com\test\dao\UserDao.class
+com\test\controller\UserController.class
+com\test\dao\UserDaoImpl.class
